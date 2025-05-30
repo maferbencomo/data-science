@@ -73,6 +73,7 @@ This course has been created by Professor Charles Severance from the University 
 15. [Object-Oriented Programming](https://www.py4e.com/lessons/Objects) (Optional)
 16. [Databases](https://www.py4e.com/lessons/database) (Optional)
 17. [Data Visualization](https://www.py4e.com/lessons/dataviz) (Optional)
+18. [Introduction to Python course is free for educators and students](https://www.datacamp.com/universities) (Optional)
 
 ### Fixes
 
